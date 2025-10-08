@@ -1,2 +1,3 @@
 Dataset link: https://www.kaggle.com/datasets/arashnic/cinema-ticket
 GitHub repo link: https://github.com/kalana3029/cinema-occupancy-ml.git
+Video link: https://youtu.be/C59JWLSP6kY
